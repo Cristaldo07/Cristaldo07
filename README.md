@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Cristaldo+Facundo;Systems+Analist;Cooking+Projects;I+live+in+Misiones+Argentina">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Cristaldo+Facundo;24+years;Systems+Analyst;I+live+in+Misiones,+Argentina;Cooking+Projects">
 </p>
 <p align='center'>
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
